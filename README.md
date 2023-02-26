@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asia
 - 👀 I’m interested in Test
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
